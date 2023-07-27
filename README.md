@@ -1,3 +1,20 @@
+# Netflix Clone React
+
+I have created Netflix Clone Using TMDB API and React Js
+
+1. `React js`
+2. `TMDB API ` (https://www.themoviedb.org/login?to=read_me&redirect_uri=/docs)
+3. `My API Key from TMDB` (40923099c6970851a1b846acc2afa36d)
+4. `Base URL of API` (https://api.themoviedb.org/3/movie/157336?api_key=40923099c6970851a1b846acc2afa36d)
+
+The main page has different sections for different genres of movies.
+On clicking any movie tile you can watch it's trailer in a boxed window,  to close the ongoing trailer,  click on the same tile again.
+
+![SS-1](https://github.com/Ryan56923/netflix-react/assets/111624266/7552d2c1-5192-44ff-b5aa-61bca3d4d5c7)
+
+![SS-2](https://github.com/Ryan56923/netflix-react/assets/111624266/25bc409d-ba81-48c8-8719-322185e4c52f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
